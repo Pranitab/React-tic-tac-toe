@@ -10,11 +10,13 @@
 
 .Cross:before{
     content:'X';
-    pointer-events: none;
 }
 
 .Zero:before{
     content:'O';
+}
+
+.Cross , .Zero{
     pointer-events: none;
 }
 

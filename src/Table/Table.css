@@ -15,9 +15,11 @@
 }
 .resetBtn{
     padding: 10px 25px;
-    margin: 30px;
     font-size: 15px;
     font-weight: bold;
     color: white;
     background-color: #e8306f;
+    position: absolute;
+    top: 390px;
+    transform: translateX(-50%);
 }
